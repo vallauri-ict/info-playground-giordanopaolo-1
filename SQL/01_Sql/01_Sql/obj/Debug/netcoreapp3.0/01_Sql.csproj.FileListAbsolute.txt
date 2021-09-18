@@ -1,0 +1,11 @@
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\bin\Debug\netcoreapp3.0\01_Sql.exe
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\bin\Debug\netcoreapp3.0\01_Sql.deps.json
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\bin\Debug\netcoreapp3.0\01_Sql.runtimeconfig.json
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\bin\Debug\netcoreapp3.0\01_Sql.runtimeconfig.dev.json
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\bin\Debug\netcoreapp3.0\01_Sql.dll
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\bin\Debug\netcoreapp3.0\01_Sql.pdb
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\obj\Debug\netcoreapp3.0\01_Sql.csprojAssemblyReference.cache
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\obj\Debug\netcoreapp3.0\01_Sql.AssemblyInfoInputs.cache
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\obj\Debug\netcoreapp3.0\01_Sql.AssemblyInfo.cs
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\obj\Debug\netcoreapp3.0\01_Sql.dll
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\01_Sql\01_Sql\obj\Debug\netcoreapp3.0\01_Sql.pdb
