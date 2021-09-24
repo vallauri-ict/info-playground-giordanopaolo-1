@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Scuola\\Quinta\\Info\\info-playground-giordanopaolo-1\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj": {}
+    "C:\\Users\\p.giordano.1320\\Desktop\\info teoria\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Scuola\\Quinta\\Info\\info-playground-giordanopaolo-1\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj": {
+    "C:\\Users\\p.giordano.1320\\Desktop\\info teoria\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Scuola\\Quinta\\Info\\info-playground-giordanopaolo-1\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj",
+        "projectUniqueName": "C:\\Users\\p.giordano.1320\\Desktop\\info teoria\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj",
         "projectName": "02_Sql_Compito",
-        "projectPath": "D:\\Desktop\\Scuola\\Quinta\\Info\\info-playground-giordanopaolo-1\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj",
-        "packagesPath": "C:\\Users\\Paolo\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Scuola\\Quinta\\Info\\info-playground-giordanopaolo-1\\SQL\\02_Sql_Compito\\02_Sql_Compito\\obj\\",
+        "projectPath": "C:\\Users\\p.giordano.1320\\Desktop\\info teoria\\SQL\\02_Sql_Compito\\02_Sql_Compito\\02_Sql_Compito.vbproj",
+        "packagesPath": "C:\\Users\\p.giordano.1320\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p.giordano.1320\\Desktop\\info teoria\\SQL\\02_Sql_Compito\\02_Sql_Compito\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\p.giordano.1320\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -47,12 +52,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
