@@ -1,0 +1,36 @@
+﻿CREATE TABLE Attori(
+	CodAttore INT PRIMARY KEY IDENTITY,
+	Nome VARCHAR(50) NOT NULL,
+	AnnoNascita INT NOT NULL,
+	Nazionalita VARCHAR(50)
+)
+
+CREATE TABLE Film(
+	CodFilm INT PRIMARY KEY IDENTITY,
+	Titolo VARCHAR(50) NOT NULL,
+	AnnoProduzione INT NOT NULL,
+	Nazionalita VARCHAR(50) NOT NULL,
+	Regista VARCHAR(50) NOT NULL,
+	Genere VARCHAR(50) NOT NULL,
+	Durata INT NOT NULL
+)
+
+CREATE TABLE Recita(
+	CodAttore INT FOREIGN KEY ([CodAttore]) REFERENCES [Attori],
+	CodFilm INT FOREIGN KEY ([CodFilm]) REFERENCES [Film],
+)
+
+CREATE TABLE Sale(
+	CodSala INT PRIMARY KEY IDENTITY,
+	Posti INT NOT NULL,
+	Nome VARCHAR(50) NOT NULL,
+	Citta VARCHAR(50) NOT NULL
+)
+
+CREATE TABLE Proiezione(
+	CodProiezioni INT PRIMARY KEY IDENTITY,
+	CodFilm INT FOREIGN KEY ([CodFilm]) REFERENCES [Film],
+	CodSala INT FOREIGN KEY ([CodSala]) REFERENCES [Sale],
+	Incasso INT NOT NULL,
+	DataProiezione INT NOT NULL
+)
