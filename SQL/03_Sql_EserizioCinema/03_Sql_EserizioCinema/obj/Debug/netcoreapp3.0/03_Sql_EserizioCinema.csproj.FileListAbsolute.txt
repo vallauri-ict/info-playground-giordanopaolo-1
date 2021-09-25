@@ -1,0 +1,11 @@
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\bin\Debug\netcoreapp3.0\03_Sql_EserizioCinema.exe
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\bin\Debug\netcoreapp3.0\03_Sql_EserizioCinema.deps.json
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\bin\Debug\netcoreapp3.0\03_Sql_EserizioCinema.runtimeconfig.json
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\bin\Debug\netcoreapp3.0\03_Sql_EserizioCinema.runtimeconfig.dev.json
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\bin\Debug\netcoreapp3.0\03_Sql_EserizioCinema.dll
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\bin\Debug\netcoreapp3.0\03_Sql_EserizioCinema.pdb
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\obj\Debug\netcoreapp3.0\03_Sql_EserizioCinema.csprojAssemblyReference.cache
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\obj\Debug\netcoreapp3.0\03_Sql_EserizioCinema.AssemblyInfoInputs.cache
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\obj\Debug\netcoreapp3.0\03_Sql_EserizioCinema.AssemblyInfo.cs
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\obj\Debug\netcoreapp3.0\03_Sql_EserizioCinema.dll
+C:\Users\p.giordano.1320\Desktop\info teoria\SQL\03_Sql_EserizioCinema\03_Sql_EserizioCinema\obj\Debug\netcoreapp3.0\03_Sql_EserizioCinema.pdb
