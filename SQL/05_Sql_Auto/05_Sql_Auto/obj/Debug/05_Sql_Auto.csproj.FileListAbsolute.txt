@@ -1,0 +1,8 @@
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\bin\Debug\05_Sql_Auto.exe.config
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\bin\Debug\05_Sql_Auto.exe
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\bin\Debug\05_Sql_Auto.pdb
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\obj\Debug\05_Sql_Auto.csprojAssemblyReference.cache
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\obj\Debug\_05_Sql_Auto.Properties.Resources.resources
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\obj\Debug\05_Sql_Auto.csproj.GenerateResource.cache
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\obj\Debug\05_Sql_Auto.exe
+C:\Users\p.giordano.1320\Desktop\info teoria\info-playground-giordanopaolo-1\SQL\05_Sql_Auto\05_Sql_Auto\obj\Debug\05_Sql_Auto.pdb
