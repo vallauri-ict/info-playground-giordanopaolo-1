@@ -1,0 +1,9 @@
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\bin\Debug\08_trieggerEsercizio.exe.config
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\bin\Debug\08_trieggerEsercizio.exe
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\bin\Debug\08_trieggerEsercizio.pdb
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\obj\Debug\08_trieggerEsercizio.csproj.AssemblyReference.cache
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\obj\Debug\_08_trieggerEsercizio.Properties.Resources.resources
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\obj\Debug\08_trieggerEsercizio.csproj.GenerateResource.cache
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\obj\Debug\08_trieggerEsercizio.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\obj\Debug\08_trieggerEsercizio.exe
+D:\Desktop\Scuola\Quinta\Info\info-playground-giordanopaolo-1\SQL\08_trieggerEsercizio\08_trieggerEsercizio\obj\Debug\08_trieggerEsercizio.pdb

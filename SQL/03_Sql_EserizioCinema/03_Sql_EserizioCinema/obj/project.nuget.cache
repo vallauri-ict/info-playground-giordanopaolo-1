@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hy/LOrmM/GvtVYfHpulS1coXA+z9V+W2W6q2PGMriA8wijglThKOo3iaZb+1faQAZlCIQzeuNN/3hhO7us0+/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Scuola\\Quinta\\Info\\info-playground-giordanopaolo-1\\SQL\\03_Sql_EserizioCinema\\03_Sql_EserizioCinema\\03_Sql_EserizioCinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Paolo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
