@@ -1,0 +1,9 @@
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\bin\Debug\09_Transaction.exe.config
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\bin\Debug\09_Transaction.exe
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\bin\Debug\09_Transaction.pdb
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\obj\Debug\09_Transaction.csproj.AssemblyReference.cache
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\obj\Debug\_09_Transaction.Properties.Resources.resources
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\obj\Debug\09_Transaction.csproj.GenerateResource.cache
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\obj\Debug\09_Transaction.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\obj\Debug\09_Transaction.exe
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\09_Transaction\09_Transaction\obj\Debug\09_Transaction.pdb
