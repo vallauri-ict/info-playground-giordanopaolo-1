@@ -41,3 +41,5 @@ CREATE TABLE [dbo].[StoricoCancellazioni] (
     [data]           DATETIME      NOT NULL,
     PRIMARY KEY CLUSTERED ([id] ASC)
 );
+
+EXEC [Procedure] dateTime('12022020000000')
