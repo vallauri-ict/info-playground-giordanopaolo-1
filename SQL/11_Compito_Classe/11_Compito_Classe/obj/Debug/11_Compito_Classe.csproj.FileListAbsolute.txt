@@ -1,0 +1,10 @@
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\bin\Debug\11_Compito_Classe.exe.config
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\bin\Debug\11_Compito_Classe.exe
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\bin\Debug\11_Compito_Classe.pdb
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\obj\Debug\11_Compito_Classe.csproj.AssemblyReference.cache
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\obj\Debug\_11_Compito_Classe.Form1.resources
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\obj\Debug\_11_Compito_Classe.Properties.Resources.resources
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\obj\Debug\11_Compito_Classe.csproj.GenerateResource.cache
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\obj\Debug\11_Compito_Classe.csproj.CoreCompileInputs.cache
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\obj\Debug\11_Compito_Classe.exe
+D:\Desktop\Scuola\Quinta\INFO2\info-playground-giordanopaolo-1\SQL\11_Compito_Classe\11_Compito_Classe\obj\Debug\11_Compito_Classe.pdb
